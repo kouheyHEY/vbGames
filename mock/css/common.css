@@ -1,0 +1,14 @@
+:root {
+    /* 色定義 */
+    --bgcolor-thin: #ccffcc;
+}
+
+/* ヘッダー */
+#header {
+    background-color: var(--bgcolor-thin);
+}
+
+/* フッター */
+#footer {
+    background-color: var(--bgcolor-thin);
+}
